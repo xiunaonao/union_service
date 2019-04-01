@@ -1,0 +1,15 @@
+.activity-list li{height:.5rem;border-bottom:.01rem solid #EEE;}
+.activity-list li a{display:inline-block;height:.5rem;width:3.55rem;padding:0 .1rem;}
+.activity-list li a>*{float:left;}
+.activity-list li a>img{width:.4rem;height:.4rem;border-radius:.4rem;margin-top:.05rem;}
+.activity-list li a>div{line-height:.25rem;}
+.activity-list li a>div>h5{font-weight:300;font-size:.14rem;color:#333;line-height:.3rem;}
+.activity-list li a>div>h6{font-weight:300;font-size:.13rem;color:#999;line-height:.2rem;}
+
+.activity-list li a>label{line-height:.5rem;float:right;color:#999;font-weight:300;}
+.activity-list li a>label>i{font-style:normal;color:#f33;}
+
+
+.activity-list li a>aside{line-height:.25rem;float:right;}
+.activity-list li a>aside>h5{font-weight:300;font-size:.13rem;color:#999;line-height:.3rem;}
+.activity-list li a>aside>h6{font-weight:300;font-size:.13rem;color:#999;line-height:.2rem;}

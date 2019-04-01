@@ -1,0 +1,7 @@
+*{margin:0;padding:0;font-size:.13rem;}
+html,body,#app{height:100%;}
+header{font-size:.18rem;text-align:center;margin:.2rem auto;}
+a{text-decoration:none;}
+.home-list li{height:.3rem;line-height:.3rem;text-align: center;margin:.1rem;box-shadow:#ccc 0px 0px 2px;}
+.home-list li a{display:block;}
+button{outline: none;}

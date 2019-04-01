@@ -1,0 +1,18 @@
+h6{font-size:.2rem;line-height:.5rem;color:#FA0;margin:0 .1rem;font-weight:400;}
+
+
+
+.order ul li{height:.3rem;line-height:.3rem;border-bottom:.01rem solid #CCC;margin:0 .1rem;list-style:none;}
+.order ul li>*{float:left;height:.3rem;}
+
+
+.order ul .income>*:nth-child(1){width:.25rem;height:.25rem;border-radius:.25rem;margin-top:.025rem;}
+.order ul .income>*:nth-child(2){width:30%;text-indent:.1rem;}
+.order ul .income>*:nth-child(3){width:20%;font-weight:300;}
+.order ul .income>*:nth-child(4){width:30%;float:right;}
+
+
+.order ul .expenditure>*:nth-child(1){width:35%;text-indent:.1rem;font-weight:300;}
+.order ul .expenditure>*:nth-child(2){width:15%;text-indent:.1rem;font-weight:300;}
+.order ul .expenditure>*:nth-child(3){width:20%;}
+.order ul .expenditure>*:nth-child(4){width:30%;float:right;}

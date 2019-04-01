@@ -1,0 +1,22 @@
+.form-box{background:#EEE;height: 100%;}
+.form-header{height: .5rem;line-height:.5rem;background:#EEE;padding:0 .15rem;}
+.form-header>*{float:left;margin-right:.1rem;}
+.form-header img{width:.4rem;height: .4rem;border-radius:.4rem;margin-top:.05rem;}
+.form-header span{color:#CCC;}
+
+article .activity-main{background:#FFF;border-bottom:.2rem solid #EEE;}
+article .activity-main p>*{box-sizing: border-box;padding:0 .15rem}
+article .activity-main input{height:.5rem;border-style:none none solid none;border-color:#EEE;border-width:.01rem;width:100%;}
+article .activity-main textarea{height:1rem;border-width:.0rem;width:100%;
+	resize:none;line-height:.4rem;}
+
+.activity-form{background:#FFF;}
+.activity-form p{padding:0 .15rem;border-bottom:.01rem solid #EEE;height:.4rem;line-height:.4rem;}
+.activity-form p>label{float:left;color:#333;}
+.activity-form p>button{float:right;color:#CCC;height:.4rem;}
+.activity-form p>input{float:right;color:#999;height:.4rem;text-align:right;}
+.activity-form p>button:after{content: ' >';}
+.activity-form aside{padding:.1rem .2rem;}
+.activity-form aside>button{background:#EEE;color:#999;width:.6rem;height:.3rem;border:none 0 #000;border-radius:.05rem;margin:.1rem;}
+
+.detail-users>h6{line-height:.3rem;padding:0 .15rem;border-bottom:.01rem solid #EEE;}
